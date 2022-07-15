@@ -1,0 +1,53 @@
+
+  body{
+    background-color: lightgray;
+  }
+
+  #header-img{
+    width: 30%;
+    height: auto;
+  }
+
+  #id {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    margin-top: 50px;
+  }
+
+  .btn{
+    height: 40px;
+    font-size: 1em;
+    font-weight: 200;
+    text-transform: uppercase;
+    border: 2px darkorange solid;
+    border-radius: 1px;
+    background: transparent;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+
+  .first-container {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  
+  #carousel {
+    margin-top: 20px;
+  }
+
+  .video {
+    max-width: 560px;
+    width: 100%;
+    align-items: center;
+    display:block;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  
+  
