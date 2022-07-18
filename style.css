@@ -23,7 +23,7 @@
     font-size: 1em;
     font-weight: 200;
     text-transform: uppercase;
-    border: 2px darkorange solid;
+    border: 2px orange solid;
     border-radius: 1px;
     background: transparent;
     cursor: pointer;
@@ -35,10 +35,7 @@
     margin-top: 40px;
     margin-bottom: 40px;
   }
-  
-  #carousel {
-    margin-top: 20px;
-  }
+
 
   .video {
     max-width: 560px;
@@ -50,4 +47,6 @@
     margin-bottom: 20px;
   }
   
-  
+  .card-header{
+    background-color: black;
+  }
